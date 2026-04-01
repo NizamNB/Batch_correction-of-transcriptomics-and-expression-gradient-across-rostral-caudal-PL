@@ -480,7 +480,7 @@ def train_three_losses_max_norm(
 
 if __name__ == "__main__":
 
-    BASE_PATH = "/Users/nawshadbintanizam/Documents/Documents/Research/data"
+    BASE_PATH = "/Users/nawshadbintanizam/Documents/ImportantDoc/Research/data"
     COMMON_GENES_CSV = os.path.join(BASE_PATH, "common_genes.csv")
     datasets = ["Zhuang-ABCA-1", "Zhuang-ABCA-2", "MERFISH-C57BL6J-638850"]
 
